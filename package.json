@@ -1,10 +1,18 @@
 {
-  "name": "@intelligentfarming/lorawan-credential-format",
+  "name": "@intelligent-farming/lorawan-credential-format",
   "version": "0.1.0",
   "description": "Normalize, validate, and convert LoRaWAN credential strings — DevEUI / JoinEUI / AppKey / NwkKey / DevAddr. Handles whitespace and byte-separator stripping, hex/Uint8Array conversion, and MSB↔LSB byte-order swaps. Isomorphic: no Node-only APIs, runs in browsers and Node.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "license": "MIT",
+  "license": "AGPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intelligent-farming/lorawan-credential-format.git"
+  },
+  "homepage": "https://github.com/intelligent-farming/lorawan-credential-format#readme",
+  "bugs": {
+    "url": "https://github.com/intelligent-farming/lorawan-credential-format/issues"
+  },
   "files": [
     "dist/"
   ],

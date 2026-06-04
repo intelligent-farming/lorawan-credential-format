@@ -1,4 +1,4 @@
-# @intelligentfarming/lorawan-credential-format
+# @intelligent-farming/lorawan-credential-format
 
 Normalize, validate, and convert LoRaWAN credential strings.
 
