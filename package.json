@@ -1,6 +1,6 @@
 {
   "name": "@intelligent-farming/lorawan-credential-format",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Normalize, validate, and convert LoRaWAN credential strings — DevEUI / JoinEUI / AppKey / NwkKey / DevAddr. Handles whitespace and byte-separator stripping, hex/Uint8Array conversion, and MSB↔LSB byte-order swaps. Isomorphic: no Node-only APIs, runs in browsers and Node.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
